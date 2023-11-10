@@ -6,7 +6,10 @@ public class Inheritance {
 
     
     public static void main(String[] args) {
-        System.out.println("adasd");
+        eggplant hisEggplant = new eggplant("eggplantNiMj");
+        hisEggplant.daut();
+        hisEggplant.fresh();
+        hisEggplant.tasty();
     }
     
 }

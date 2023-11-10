@@ -9,7 +9,7 @@ public class eggplant extends vegetables {
     }
     
         void daut(){
-        System.out.println(utan+"is lata man uy");
+        System.out.println(utan+" is lata man uy");
     }
     
 }

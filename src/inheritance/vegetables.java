@@ -11,10 +11,10 @@ public class vegetables {
     
     
     void fresh(){
-        System.out.println(utan+"is lata");
+        System.out.println(utan+" is fresh kaayo");
     }
         void tasty(){
-        System.out.println(utan+"is lami kaayo");
+        System.out.println(utan+" is lami kaayo");
     }
     
 }

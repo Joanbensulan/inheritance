@@ -10,4 +10,8 @@ public class vegetables {
     }
     
     
+    void fresh(){
+        System.out.println(utan+"is lata");
+    }
+    
 }
